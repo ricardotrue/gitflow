@@ -1,0 +1,1 @@
+Não desejo excluir file1.txt e nem file2.txt .

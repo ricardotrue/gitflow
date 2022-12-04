@@ -1,0 +1,1 @@
+Aprendendo a trabalhar no Git Local e executando Visual studio Code
